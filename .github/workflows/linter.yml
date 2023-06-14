@@ -1,6 +1,6 @@
 name: 'Lint Code'
 
-on: workflow-dispatch
+on: workflow_dispatch
 
 jobs: # list of things to do
   lint_function_js:
